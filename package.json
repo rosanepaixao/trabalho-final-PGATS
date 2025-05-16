@@ -1,0 +1,29 @@
+{
+  "name": "trabalho-final-pgats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trabalho_final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosanepaixao/trabalho-final-PGATS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosanepaixao/trabalho-final-PGATS/issues"
+  },
+  "homepage": "https://github.com/rosanepaixao/trabalho-final-PGATS#readme",
+  "dependencies": {
+    "assert": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
